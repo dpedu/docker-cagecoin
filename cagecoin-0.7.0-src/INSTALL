@@ -1,0 +1,9 @@
+Building CageCoin
+
+See doc/readme-qt.rst for instructions on building CageCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CageCoin.
+
+See doc/build-*.txt for instructions on building cagecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CageCoin.
